@@ -1,4 +1,4 @@
-# FITGIRL-NSP
+# FITGIRL-REPACKS-NSP
 
 This is a tool/executable for Windows to extract [Fitgirl Repack](https://fitgirl-repacks.site/) switch emulated package game into its own NSP. You may need to get standalone NSP file format, maybe to play into your own CFW Switch or another emulator (Ryujinx, etc)
 
