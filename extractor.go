@@ -14,7 +14,7 @@ import (
 //go:embed nspBuild.exe
 var binary []byte
 
-const nspBuildExecutable = "nspBuild.exe"
+const nspBuildExecutable = "./nspBuild.exe"
 
 func extractNcaFilesPath(directoryPath string) []string {
 	filesPath := make([]string, 0)
